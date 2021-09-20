@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Alia</string>
+    <string name="hola_de_nuevo">Hola de nuevo!</string>
+    <string name="identificate">Identificate</string>
+    <string name="correo">Correo</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="crear_una_cuenta">Crear una cuenta</string>
+    <string name="add_photo">Añade \n una foto</string>
+    <string name="nombre">Nombre</string>
+    <string name="password_confirm">Confirma tu contraseña</string>
+    <string name="create_new_account">Crear</string>
+    <string name="already_have_account">Ya tengo una cuenta</string>
+    <string name="select_user">Usuarios</string>
+    <string name="message">Mensaje</string>
+    <string name="online">En línea</string>
+    <string name="powered_by_kod_kode">Powered by Kod Kode</string>
+</resources>

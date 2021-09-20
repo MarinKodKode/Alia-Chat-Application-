@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574553993914",
+    "project_id": "chatkode",
+    "storage_bucket": "chatkode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574553993914:android:c1d1a0508555940cea0883",
+        "android_client_info": {
+          "package_name": "com.mahm.chatkode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574553993914-msbc9hbobmh201knb298ds15f2ed8c58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2VXl2ziqAWL8ckpIWf36eQiBMblPRXDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574553993914-msbc9hbobmh201knb298ds15f2ed8c58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
